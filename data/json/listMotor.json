@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Mio Abang",
+    "price": 3400000,
+    "img": "../img/mio-abang.jp"
+  },
+  {
+    "id": 2,
+    "name": "MX king",
+    "price": 15600000,
+    "img": "../img/mx-king.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Motor epep special edition",
+    "price": 10000,
+    "img": "../img/motor-epep.jpg"
+  },
+  {
+    "id": 4,
+    "name": "cb icikiwir super",
+    "price": 5800000,
+    "img": "../img/cb-teyeng.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vario modif tipis2",
+    "price": 12400000,
+    "img": "../img/vario.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Vario modif tipis2",
+    "price": 12400000,
+    "img": "../img/vario.jpg"
+  }
+]
